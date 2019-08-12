@@ -1,0 +1,9 @@
+server:
+  port: 8012
+
+spring:
+  data:
+    neo4j:
+      username: neo4j
+      password: neo4j.com
+      uri: http://10.0.0.201:7474
